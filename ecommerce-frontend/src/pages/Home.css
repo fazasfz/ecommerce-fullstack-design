@@ -1,0 +1,19 @@
+.product-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+    background: #fff;
+  }
+  
+  .product-card img {
+    width: 100px;
+    height: auto;
+  }
+  

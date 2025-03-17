@@ -1,4 +1,7 @@
-body {
+/*src/index.css
+Purpose: Contains global styles for your app (e.g., fonts, reset styles, body background, etc.).
+
+Usage: These styles apply to the entire app and are imported into index.js.*/body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

@@ -1,3 +1,7 @@
+/*src/components/NavBar.js
+Purpose: Contains the navigation bar for your app. It's a reusable component and appears on every page.
+
+Usage: Includes links like Home, Products, Cart, etc. Can be styled using the accompanying NavBar.css.*/
 import React from 'react';
 
 function NavBar() {

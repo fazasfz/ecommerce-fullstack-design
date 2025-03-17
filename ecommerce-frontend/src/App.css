@@ -1,4 +1,7 @@
-.App {
+/*src/App.css
+Purpose: App-wide general styling.
+
+Usage: Contains CSS rules that apply globally across your app or specific to App.js.*/.App {
   text-align: center;
 }
 

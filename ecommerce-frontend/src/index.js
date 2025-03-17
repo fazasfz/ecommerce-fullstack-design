@@ -1,4 +1,7 @@
-import React from 'react';
+/*src/index.js
+Purpose: The entry point of your React application.
+
+Usage: Renders the App component into the DOM. Rarely needs modifications after the initial setup.*/import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
